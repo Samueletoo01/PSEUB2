@@ -15,7 +15,7 @@ public class HomeworkHamster extends HomeworkHamsterGame{
      */
     @Override
     protected void hamsterRun(){
-        paule.write("Ich weiß nicht wie :'(");
+        paule.write("Ich weiß nicht wie 123:'(");
         // Helfe Paule dabei durch das Territorium zu laufen 
         // und alle Körner nachhause zu bringen
     }
