@@ -65,10 +65,10 @@ public class HomeworkHamster extends HomeworkHamsterGame{
         paule.move();
         paule.move();
         paule.pickGrain();
-        /*paule.putGrain();
         paule.putGrain();
         paule.putGrain();
-        paule.putGrain();*/
+        paule.putGrain();
+        paule.putGrain();
         //paule.write("Ich weiß nicht wie 123:'(");
         // Helfe Paule dabei durch das Territorium zu laufen 
         // und alle Körner nachhause zu bringen
