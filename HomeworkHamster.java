@@ -15,7 +15,61 @@ public class HomeworkHamster extends HomeworkHamsterGame{
      */
     @Override
     protected void hamsterRun(){
-        paule.write("Ich weiß nicht wie 123:'(");
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.pickGrain();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.move();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.turnLeft();
+        paule.move();
+        paule.pickGrain();
+        paule.move();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.pickGrain();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.turnLeft();
+        paule.move();
+        paule.pickGrain();
+        paule.turnLeft();
+        paule.move();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.move();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.pickGrain();
+        /*paule.putGrain();
+        paule.putGrain();
+        paule.putGrain();
+        paule.putGrain();*/
+        //paule.write("Ich weiß nicht wie 123:'(");
         // Helfe Paule dabei durch das Territorium zu laufen 
         // und alle Körner nachhause zu bringen
     }

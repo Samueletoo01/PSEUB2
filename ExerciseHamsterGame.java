@@ -26,5 +26,29 @@ public class ExerciseHamsterGame extends SimpleHamsterGame
     Hamster getHamster(){
         return paule;
     }
+    
+    public void turnRight(){
+        for(int i=0;i<3;i++){
+            paule.turnLeft();
+        }
+       
+    }
+    
+    public void allesAufEinmal(){
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.move();
+        paule.turnLeft();
+        paule.turnLeft();
+        paule.move();
+        paule.move();
+        paule.move();
+        
+        
+    }
+    
+   
 
 }
